@@ -1,10 +1,28 @@
 {
   "name": "webb-theme",
   "displayName": "Webb Theme",
-  "description": "Visual Studio Code theme based on James Webb Telescope first image of eta carinae.",
-  "version": "0.0.1",
+  "description": "VS Code theme based on James Webb Telescope's first image of the Eta Carinae Nebula.",
+  "version": "1.0.2",
+  "publisher": "VictorSvart",
+  "icon": "images/logo_vs.png",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/victorsvart/jameswebb_vscode"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "webb Theme",
+    "webb",
+    "webbTheme",
+    "svart",
+    "space",
+    "orange",
+    "nebula",
+    "victor"
+  ],
   "engines": {
-    "vscode": "^1.70.0"
+    "vscode": "^1.16.0"
   },
   "categories": [
     "Themes"
